@@ -1,6 +1,6 @@
 # Local MCP Connector Tool
 
-A tool which bridges STDIO-based MCP tools, to SSE, intelligently bringing tens of thousands of new tools to your AI's fingertips (wrapped progressive-disclosure, so zero token wastage!)
+A tool which bridges STDIO-based MCP tools, to SSE, intelligently bringing tens of thousands of new tools to your AI's fingertips (wrapped with progressive-disclosure, so zero token wastage!)
 
 **Unlock tens of thousands of MCP tools — without exploding your context.**
 
@@ -22,7 +22,7 @@ This is the infrastructure that makes MCP-Link's "infinite toolbox" possible.
 
 ---
 
-## 3 Hero Benefits
+## Benefits
 
 ### 1. 🌐 Access Thousands of Tools Without Context Explosion
 **Every STDIO MCP tool, instantly available — zero context waste.** The Local Connector automatically discovers and wraps all external MCP servers configured in your settings. Each tool uses progressive discovery: minimal footprint until needed, full documentation on demand. Your AI can have 100+ tools available while using the context of 3.
